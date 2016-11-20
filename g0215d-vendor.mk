@@ -261,6 +261,7 @@ PRODUCT_COPY_FILES += \
     vendor/gree/g0215d/proprietary/bin/dpmd:system/bin/dpmd \
     vendor/gree/g0215d/proprietary/bin/energy-awareness:system/bin/energy-awareness \
     vendor/gree/g0215d/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+    vendor/gree/g0215d/proprietary/bin/hvdcp_opti:system/bin/hvdcp_opti \
     vendor/gree/g0215d/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/gree/g0215d/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
     vendor/gree/g0215d/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
